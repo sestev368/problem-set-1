@@ -15,7 +15,7 @@ This report presents the results of the "Animal Species Classification" project 
 
 ### Data Collection
 
-- **Dataset:** The project utilized a custom dataset containing images of **multiple animal species**. The dataset consisted of [insert number] images across [insert number] different classes.
+- **Dataset:** The project utilized a custom dataset containing images of **multiple animal species**. The dataset consisted of [25] images across [4] different classes.
 - **Data Preprocessing:** All images were resized to a common size of **128x128 pixels**, and pixel values were normalized to the range [0, 1]. The dataset was split into training, validation, and test sets.
 
 ### Model Architecture
